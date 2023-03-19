@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\r\n\ Write\ a\ description\ of\ Part3\ here.\r\n\ \r\n\ @author\ Zekarias\ W.\ \r\n\ @version\ 03/12/2023\r\n
+comment1.params=stringa\ stringb
+comment1.target=boolean\ twoOccurrences(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testing()
+comment3.params=stringa\ stringb
+comment3.target=java.lang.String\ lastPart(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ testingLastPart()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
